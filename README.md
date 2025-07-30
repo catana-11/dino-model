@@ -1,5 +1,5 @@
 # dino-model
-Finetuned Gemma 3 1B for google dino
+Finetuned Gemma 3 1B for google dino -> link in file-link.txt
 
 Install ollama
 
